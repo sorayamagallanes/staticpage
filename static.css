@@ -1,0 +1,221 @@
+#webpage {
+    min-width: 80px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -10px;
+
+
+
+   
+    
+}
+
+.front {
+    box-shadow: 100px 100px 500px 100px black inset;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/c385496a-2ed6-4081-9783-49a1ac8a5bbf/eac98c12-f9cc-411b-b5d9-1719ad931736/US-en-20200629-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+}
+.logo {
+    height: 100px;
+    text-align: left;
+}
+.signIn {
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+
+
+    .unlimited {
+        font-size: 20px;
+        text-shadow: 2px 2px 8px #000000;
+        font-size: 2em;
+        margin-top: 155px;
+        margin-left: 300px;
+        margin-right: 300px;
+        color: white;
+        text-align: center;
+    
+        font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.watch {
+    font-size: 1rem;
+    font-family: arial;
+    margin-top: -30px;
+    color: white;
+    text-align: center;
+}
+
+.enterEmail {
+    margin-left: 350px;
+    
+    }
+    
+    .emailAddy{
+        width: 600px;
+        height: 50px;
+    }
+    
+    .try{
+        background: red;
+        color: white;
+        text-decoration: none;
+        border: solid red;
+        border-radius: 3px;
+        font-size: 20px;
+        padding:15px 50px;
+        Font-family: Arial;
+        
+    }
+    
+    .ready {
+        color: white;
+        font-family: system-ui;
+        margin-left: 90px;
+        font-size: 23px;
+    }
+
+    .threeParts {
+        color: white;
+        background-color: black;
+        border: 5px solid rgb(31, 30, 30);
+        border-left-style: none;
+        border-right-style: none;
+        margin-top: -30px;
+    }
+
+.tv {
+margin-left: 500px;
+width: 500px;
+margin-top: -280px;
+}
+
+.enjoyOnTv{
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 400px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.middle {
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 430px;
+    margin-left: 790px;
+    margin-top: 100px;
+}
+
+.phone {
+   margin-left: -700px;
+   margin-top: -800px;
+   height: 400px;
+}
+
+.pile {
+    margin-left: 500px;
+    margin-top: -270px;
+}
+
+.FAQ {
+    margin-top: -45px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   background-color: black;
+    color: white;
+    text-align: center;
+       
+}
+    #header {
+        font-size: 20px;
+    }
+  
+
+    h3 {
+        border: 1px solid  rgb(51, 51, 51);
+        background-color: rgb(51, 51, 51);
+        width:800px;
+        height: 60px;
+        text-align: left;
+        margin-left: 300px;
+        font-size: 25px;
+        padding-top: 20px;
+        padding-left: 20px;
+
+    }
+
+    .enterEmail {
+        margin-left: 350px;
+        
+        }
+        
+        .emailAddy{
+            margin-top: 50px;
+            width: 600px;
+            height: 50px;
+        }
+        
+        .try{
+            background: red;
+            color: white;
+            text-decoration: none;
+            border: solid red;
+            border-radius: 3px;
+            font-size: 20px;
+            padding:15px 50px;
+            Font-family: Arial;
+            
+        }
+        
+        .ready {
+            color: white;
+            font-family: system-ui;
+            margin-left: 90px;
+            font-size: 23px;
+        }
+
+        .last {
+            margin-top: -30px;
+            background-color: black;
+            margin-left: -70px;
+        
+        }
+
+        .footers {
+            background-color: black;
+            text-decoration: none;
+            margin-left: -10px;
+            margin-top: -20px;
+            padding-left: 300px;
+            padding-top: 10px;
+            
+        }
+
+        h5 {
+        color: rgb(141, 141, 141);
+        font-family: arial;
+        }
+        
+       .section2 {
+           margin-left: 500px;
+           margin-top: -190px;
+           margin-bottom: initial
+       }
+        
+        .section3 {
+            margin-left: 700px;
+            margin-top: -150px;
+        }
+
+        .section4 {
+            margin-left: 900px;
+            margin-top: -150px;
+        }
