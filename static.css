@@ -1,12 +1,7 @@
-#webpage {
-    min-width: 80px;
-    margin-top: -8px;
-    margin-left: -8px;
-    margin-right: -10px;
-
-
-
-   
+.wrapper {
+    width: 1550px;
+    margin-top: -10px;
+    margin-left: -10px;
     
 }
 
@@ -17,6 +12,7 @@
 .logo {
     height: 100px;
     text-align: left;
+    margin-left: 30px;
 }
 .signIn {
     font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
@@ -28,9 +24,8 @@
     font-size: 10px;
     text-align: center;
     color: white;
-    position: absolute;
-    right: 30px;
-    top: 30px;
+    margin-left: 1350px;
+    margin-top: -70px;
 }
 
 
@@ -43,7 +38,7 @@
         margin-right: 300px;
         color: white;
         text-align: center;
-    
+        position: relative;
         font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
